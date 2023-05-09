@@ -1,0 +1,264 @@
+[33mcommit 173532fac13b3241355c80c79a8210debc7f17a4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Alessandro Bottalico <ale.bottalico@hotmail.com>
+Date:   Fri Mar 10 19:17:44 2023 +0100
+
+    aggiunto pattern nelle input di email e password da aggiustare i messaggi
+
+[33mcommit a0d360b447c1dddbf0deab3116df0f65d4fafe02[m
+Author: Silvia_Anaclerio <silvia_anaclerio@libero.it>
+Date:   Fri Mar 10 18:04:33 2023 +0100
+
+    implementata logica user story 4
+
+[33mcommit b63c4eaa5176e65ffa33c11302fa92b041383ac6[m
+Author: francesco greco <francesco.elgreco@hotmail.it>
+Date:   Fri Mar 10 15:54:11 2023 +0100
+
+    finita userstory6
+
+[33mcommit 6e9d4d52ef998751c9fe39e203586b4a61146a59[m
+Merge: cc9c2b6 0b02fad
+Author: francesco greco <francesco.elgreco@hotmail.it>
+Date:   Fri Mar 10 14:57:44 2023 +0100
+
+    fissati i merge
+
+[33mcommit cc9c2b6bb9fcf652a9582964da427cb1030c1e4f[m
+Author: francesco greco <francesco.elgreco@hotmail.it>
+Date:   Fri Mar 10 14:50:39 2023 +0100
+
+    fattad descriptio
+
+[33mcommit 0b02fad61f6dc5121e6cf805970f25ae662f6e53[m
+Author: Alessandro Bottalico <ale.bottalico@hotmail.com>
+Date:   Fri Mar 10 14:35:58 2023 +0100
+
+    implementata descrizione, da fare user story 4
+
+[33mcommit 3e3d54a1ef0f5eb14598b5f130f017d6ca6711bf[m
+Author: Alessandro Bottalico <ale.bottalico@hotmail.com>
+Date:   Fri Mar 10 12:52:11 2023 +0100
+
+    finita user story 6, colosseo da sistemare
+
+[33mcommit 60c09cfba9ceaad2de4334c3bba219575afad3d4[m
+Merge: 65c7f17 77228cc
+Author: Alessandro Bottalico <ale.bottalico@hotmail.com>
+Date:   Fri Mar 10 10:27:34 2023 +0100
+
+    Merge branch 'main' of github.com:Hackademy64/presto_gruppo01_TORNOPRESTO
+
+[33mcommit 65c7f17b5153ec4c458f0f228f79e48710042866[m
+Author: Alessandro Bottalico <ale.bottalico@hotmail.com>
+Date:   Fri Mar 10 10:27:17 2023 +0100
+
+    sistemato footer
+
+[33mcommit 77228cc1d06c1d067db55a4dd71169bc014f64f7[m
+Author: Francesco Zizza <zizzafrancesco3@gmail.com>
+Date:   Fri Mar 10 09:55:36 2023 +0100
+
+    sistemata navbar
+
+[33mcommit 19e3c1d22810078b3716c617e272eec9b2424868[m
+Merge: 09a81bf 143cbf4
+Author: Francesco Zizza <zizzafrancesco3@gmail.com>
+Date:   Fri Mar 10 09:49:47 2023 +0100
+
+    Merge branch 'main' of github.com:Hackademy64/presto_gruppo01_TORNOPRESTO
+
+[33mcommit 09a81bf9d930e9f33d2d1d8728550dd35d060038[m
+Author: Francesco Zizza <zizzafrancesco3@gmail.com>
+Date:   Fri Mar 10 09:49:32 2023 +0100
+
+    finita user story 5
+
+[33mcommit 143cbf4037a4ad45977e8613fcda99128e173d50[m
+Merge: d7adcf6 7cec21d
+Author: Alessandro Bottalico <ale.bottalico@hotmail.com>
+Date:   Thu Mar 9 19:24:09 2023 +0100
+
+    .
+
+[33mcommit 7cec21dc2cfa8b0c42a9985c76e84704625e729a[m
+Author: Francesco Zizza <zizzafrancesco3@gmail.com>
+Date:   Thu Mar 9 19:21:05 2023 +0100
+
+    finita user story 5
+
+[33mcommit 6e2367cbf6e3614887766a1aa92a0c8e9aa976f0[m
+Author: Sebastiano Mininni <sebamin22@gmail.it>
+Date:   Thu Mar 9 18:38:24 2023 +0100
+
+    da fare front user 5 finita
+
+[33mcommit 119908c45f4c370995c40404541a0232d3db1977[m
+Author: Marta Mischiatti <mischiatti.marta@gmail.com>
+Date:   Thu Mar 9 17:56:04 2023 +0100
+
+    logica immagini - no store
+
+[33mcommit d7adcf61fd3c0a0c34f80d9b50dd828109967abf[m
+Author: Alessandro Bottalico <ale.bottalico@hotmail.com>
+Date:   Thu Mar 9 16:57:37 2023 +0100
+
+    .
+
+[33mcommit 1c563d4a063346c5bf4b6b46e5e07b3b16376770[m
+Author: Marta Mischiatti <mischiatti.marta@gmail.com>
+Date:   Thu Mar 9 16:57:34 2023 +0100
+
+    prove navbar
+
+[33mcommit 84e0a7184a2afdb77162f67468205097f70e7324[m
+Merge: 88e8f56 bc10ce2
+Author: Marta Mischiatti <mischiatti.marta@gmail.com>
+Date:   Thu Mar 9 12:41:11 2023 +0100
+
+    Merge branch 'main' of github.com:Hackademy64/presto_gruppo01_TORNOPRESTO
+
+[33mcommit 88e8f564d5e31fb56a122d20352abed5458e3e24[m
+Author: Marta Mischiatti <mischiatti.marta@gmail.com>
+Date:   Thu Mar 9 12:41:06 2023 +0100
+
+    .
+
+[33mcommit bc10ce2a073690fb9fe62c6c4bb04edf71a80152[m
+Author: Alessandro Bottalico <ale.bottalico@hotmail.com>
+Date:   Thu Mar 9 12:40:06 2023 +0100
+
+    da sistemare navabar, e farlo meglio responsive
+
+[33mcommit 8a41ebe8373cd9aea77680430979909861df2472[m
+Author: Alessandro Bottalico <ale.bottalico@hotmail.com>
+Date:   Thu Mar 9 10:01:11 2023 +0100
+
+    sistemato
+
+[33mcommit e6f050d1a33b05ad4af288ecd22b8ede3967f70d[m
+Author: Alessandro Bottalico <ale.bottalico@hotmail.com>
+Date:   Thu Mar 9 09:38:49 2023 +0100
+
+    aggiustato revisore
+
+[33mcommit 771266e4679c807c2ceb6dd21301f19e82a40692[m
+Merge: f1b944b 9fe8d72
+Author: Alessandro Bottalico <ale.bottalico@hotmail.com>
+Date:   Thu Mar 9 09:23:10 2023 +0100
+
+    Merge branch 'main' of github.com:Hackademy64/presto_gruppo01_TORNOPRESTO
+
+[33mcommit f1b944bb688eba2478e02427c76c5d8c238b664b[m
+Author: Alessandro Bottalico <ale.bottalico@hotmail.com>
+Date:   Thu Mar 9 09:22:58 2023 +0100
+
+    .
+
+[33mcommit 9fe8d72cd36fee1c3aeaf5d5d8abf7151414e38c[m
+Author: Marta Mischiatti <mischiatti.marta@gmail.com>
+Date:   Thu Mar 9 09:20:27 2023 +0100
+
+    navbar decente - form - footer
+
+[33mcommit a179153007982b9fe979e6d0f85a57cd01eb203a[m
+Author: Alessandro Bottalico <ale.bottalico@hotmail.com>
+Date:   Wed Mar 8 18:37:38 2023 +0100
+
+    da fare l'email
+
+[33mcommit 5c2f77a55ac6bb135715900fb9ec64a238511af1[m
+Author: Alessandro Bottalico <ale.bottalico@hotmail.com>
+Date:   Wed Mar 8 18:33:59 2023 +0100
+
+    da aggiustare il front
+
+[33mcommit 2388007e3e7aa71690d4696061508ddc482e0aa3[m
+Author: Francesco Zizza <zizzafrancesco3@gmail.com>
+Date:   Wed Mar 8 18:20:39 2023 +0100
+
+    sistemate sezione profilo dettagli articoli e card nuove
+
+[33mcommit 1623f319f85ab9ea5b060dfe35f8d15485a2501c[m
+Merge: 39285a6 7f04edb
+Author: Francesco Zizza <zizzafrancesco3@gmail.com>
+Date:   Wed Mar 8 13:09:44 2023 +0100
+
+    Merge branch 'main' of github.com:Hackademy64/presto_gruppo01_TORNOPRESTO
+
+[33mcommit 39285a6494c2a021153784b2f1f2fc363a72feed[m
+Author: Francesco Zizza <zizzafrancesco3@gmail.com>
+Date:   Wed Mar 8 13:09:40 2023 +0100
+
+    pullato ultimo
+
+[33mcommit 7f04edbdd5dc7287fff6691ab3bf8ed276787e2b[m
+Author: Alessandro Bottalico <ale.bottalico@hotmail.com>
+Date:   Wed Mar 8 13:06:17 2023 +0100
+
+    da sistemare front-end
+
+[33mcommit 81c727471f36bd55eb85ca1aec183c43e456ae55[m
+Merge: bfb8204 ea4ca97
+Author: Francesco Zizza <zizzafrancesco3@gmail.com>
+Date:   Wed Mar 8 12:58:53 2023 +0100
+
+    fatto merge
+
+[33mcommit bfb8204f219e4a8323864bc90d678d95277cf756[m
+Author: Francesco Zizza <zizzafrancesco3@gmail.com>
+Date:   Wed Mar 8 12:57:02 2023 +0100
+
+    aggiunte card
+
+[33mcommit ea4ca97028b94c8c38cb5b5abd9bb96060f01c64[m
+Author: Sebastiano Mininni <sebamin22@gmail.it>
+Date:   Wed Mar 8 12:51:40 2023 +0100
+
+    fine story10
+
+[33mcommit d695d5fb7f96bf63d3f329597789ea31b2e14574[m
+Author: Sebastiano Mininni <sebamin22@gmail.it>
+Date:   Wed Mar 8 11:01:38 2023 +0100
+
+    spazio inserito
+
+[33mcommit 8a0fa89e3c304671fdfe7d74251ad7695710189e[m
+Author: Alessandro Bottalico <ale.bottalico@hotmail.com>
+Date:   Tue Mar 7 22:19:03 2023 +0100
+
+    finita user story3
+
+[33mcommit b8ff556706bb1b9c80008d95d9fb35259627c124[m
+Author: Silvia_Anaclerio <silvia_anaclerio@libero.it>
+Date:   Tue Mar 7 20:10:45 2023 +0100
+
+    Iniziato middleware
+
+[33mcommit fd632921bf323072140ee9c8d65443bd7fb1b581[m
+Author: Silvia_Anaclerio <silvia_anaclerio@libero.it>
+Date:   Tue Mar 7 18:23:15 2023 +0100
+
+    implementata pagina revisore e logica accetta/rifiuta annunci
+
+[33mcommit 891952dbfb2d2950520c73219d4f7bdcaf62da32[m
+Author: Marta Mischiatti <mischiatti.marta@gmail.com>
+Date:   Tue Mar 7 16:28:00 2023 +0100
+
+    aggiunta colonne in user e announcement + logica revisore
+
+[33mcommit d5367106701984bc8bd9d0e07e03eabf6b95b73b[m
+Merge: 11f4fa5 11b85e4
+Author: Francesco Zizza <zizzafrancesco3@gmail.com>
+Date:   Tue Mar 7 12:52:36 2023 +0100
+
+    risolto merge con marta
+
+[33mcommit 11f4fa50f6ae370ff61205163c62c0f5018fb377[m
+Author: Francesco Zizza <zizzafrancesco3@gmail.com>
+Date:   Tue Mar 7 12:50:45 2023 +0100
+
+    rifiutata navbar nel merge
+
+[33mcommit 11b85e48ae00111a3ff1ebd20c063ea834a83e97[m
+Merge: 910d124 d0a0b0e
+Author: Marta Mischiatti 
